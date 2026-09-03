@@ -1,0 +1,13 @@
+openai
+python-dotenv
+
+fastapi
+uvicorn
+
+sqlalchemy
+aiosqlite
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
