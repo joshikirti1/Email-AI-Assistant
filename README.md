@@ -232,27 +232,7 @@ For production deployment:
 * 🧠 Personalized email recommendations
 * 🌐 Deployment with cloud infrastructure
 
-## 📸 Screenshots
 
-Add screenshots of the application here:
-
-```text
-screenshots/
-├── login.png
-├── dashboard.png
-├── email-list.png
-└── ai-chat.png
-```
-
-Example:
-
-```markdown
-![Login Screen](screenshots/login.png)
-
-![Dashboard](screenshots/dashboard.png)
-
-![AI Assistant](screenshots/ai-chat.png)
-```
 
 ## 🤝 Contributing
 
